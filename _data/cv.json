@@ -66,32 +66,11 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Uncertainty-Aware Control Barrier Functions with Self-Adaptive Online Conformal Prediction for Safe Reinforcement Learning",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-10-21",
+      "website": "https://arxiv.org/abs/XXXX.XXXXX",
+      "summary": "Novel framework integrating formal safety guarantees with adaptive uncertainty quantification for safe reinforcement learning. Achieves 99.2% constraint satisfaction in simulation (80% violation reduction vs. baselines) and 98.7% on real microgrid hardware with zero emergency stops over 6 hours. Introduces Self-Adaptive Online Conformal Prediction (SAOCP) maintaining guaranteed coverage under distribution shift. Validated with IEEE 1547 compliance and demonstrated economic benefits ($840/year savings, 2.3-year payback). Applicable to energy systems, autonomous vehicles, robotics, and other safety-critical domains."
     }
   ],
   "presentations": [
